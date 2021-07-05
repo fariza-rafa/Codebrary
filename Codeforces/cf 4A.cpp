@@ -1,4 +1,4 @@
-// Watermalon-(brute force, math)	
+// Watermelon-(brute force, math)	
 #include<stdio.h>
 int main()
 {
